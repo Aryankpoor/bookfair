@@ -1,2 +1,2 @@
-# web-resources
-Open source web resources
+# Vorizon
+A sample ecommerce website boilerplate
