@@ -1,2 +1,2 @@
-# Bookfair
-A home for second hand educational books
+# Shack
+Chatting application
